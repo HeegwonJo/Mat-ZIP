@@ -10,7 +10,6 @@
     <h1> 🍴 Mat.ZIP ( 맛집 지도 만들기 ) </h1>
 
 [<img src="https://img.shields.io/badge/-matzip.site-purple?style=flat&logo=google-chrome&logoColor=white" />](https://matzip.site)
-[<img src="https://img.shields.io/badge/-Mat.ZiP Notion-blue?style=flat&logo=google-chrome&logoColor=white" />](https://www.notion.so/MatZIP-MZ-2739bdf0a306410a831bbfc5128c437d)
 
 
 <div>

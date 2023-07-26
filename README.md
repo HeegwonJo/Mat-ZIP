@@ -93,18 +93,21 @@
 # 🔥 주요 기능
 
 - **각지 식당 검색**
+<img width="643" alt="image" src="https://github.com/HeegwonJo/Blog-2023/assets/101499795/15b3eaf3-625e-402b-b51d-2bfa0ed48a37">
 
   ```
   각지에 사용자들이 맛집으로 등록해놓은 가게들을 검색하고 확인할 수 있습니다!
   ```
 
 - **맛집 등록**
+<img width="682" alt="image" src="https://github.com/HeegwonJo/Blog-2023/assets/101499795/f25265aa-a181-4a39-8058-3450c1fbae04">
 
   ```
   자신이 맛집이라고 생각하는 가게에 대한 리뷰를 남기고 마커를 찍어 자신의 지도에 표기할 수 있습니다!
   ```
 
 - **맛집 공유**
+<img width="695" alt="image" src="https://github.com/HeegwonJo/Blog-2023/assets/101499795/98f90569-b465-4985-afdb-12b1bf6bc0aa">
 
   ```
   친구를 추가하고 해당 친구와 각자의 맛지도를 공유할 수 있습니다!
@@ -138,6 +141,7 @@
 # 📅 프로젝트 기간
 
 **2023.06.19(월) ~ 2023.07.14(금)**
+![mat_zip_2023-07-26_03 05pm](https://github.com/HeegwonJo/Blog-2023/assets/101499795/d3fc5007-cc61-45de-b24f-8d16fddbbb36)
 
 <br />
 
